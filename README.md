@@ -42,15 +42,4 @@
 
 ---
 
-## ไฟล์ Script บรรยาย
-
-| ไฟล์ | ใช้สำหรับ |
-|------|----------|
-| `Script_บทที่1_Python_Crash_Course.md` | สคริปต์บรรยายบทที่ 1 |
-| `Script_บทที่2_Pandas_Matplotlib.md` | สคริปต์บรรยายบทที่ 2 |
-| `Script_บทที่3_Workshop.md` | สคริปต์บรรยายบทที่ 3 |
-| `Script_บทที่4_Solutions_Summary.md` | สคริปต์บรรยายบทที่ 4 |
-
----
-
 <sub>© 2026 Coding Thailand. สงวนลิขสิทธิ์ทุกประการ</sub>
